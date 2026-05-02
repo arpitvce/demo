@@ -1,0 +1,7 @@
+/* ===== Home Page ===== */
+.home-page {
+    padding-bottom: var(--space-4xl);
+}
+.home-section {
+    margin-bottom: var(--space-xl);
+}
